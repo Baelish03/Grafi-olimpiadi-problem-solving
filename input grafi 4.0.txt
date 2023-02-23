@@ -1,0 +1,7 @@
+arco(n10,n3,12) arco(n4,n9,1) arco(n6,n1,5) arco(n2,n7,11)
+arco(n1,n2,4) arco(n7,n1,3) arco(n3,n8,4) arco(n9,n5,4)
+arco(n2,n6,3) arco(n4,n10,6) arco(n5,n8,8) arco(n3,n9,9)
+o(n5,n6,5) o(n9,n2,7) o(n4,n7,10)
+pedaggio(n2,6) pedaggio(n4,9) pedaggio(n5,7) pedaggio(n6,2)
+pedaggio(n7,8) pedaggio(n8,1) pedaggio(n9,4)
+percorson3,n1
